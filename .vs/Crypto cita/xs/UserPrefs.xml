@@ -1,0 +1,76 @@
+﻿<Properties StartupConfiguration="{34902D85-B2FA-2E93-29CE-85818CC25E30}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Developer/Script/Network/StaticDataHandler.cs">
+    <Files>
+      <File FileName="Assets/_Developer/Script/Network/StaticDataHandler.cs" Line="23" Column="87" IsPinned="True" />
+      <File FileName="Assets/_Developer/Script/Game/ImportantDataMembers.cs" Line="222" Column="89" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/UIManager.cs" Line="14" Column="76" />
+      <File FileName="Assets/_Developer/Script/Network/Network_Gatekeeper.cs" Line="12" Column="66" />
+      <File FileName="Assets/_Developer/Script/Network/Network_Listener.cs" Line="17" Column="80" />
+      <File FileName="Assets/_Developer/Script/Network/Network_Emitter.cs" Line="11" Column="53" />
+      <File FileName="Assets/_Developer/Script/Game/AllAction_EventHandler.cs" Line="33" Column="116" />
+      <File FileName="Assets/_Developer/Script/Game/PokerGameplay/BetController.cs" Line="12" Column="68" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/BetScreenUI.cs" Line="14" Column="91" />
+      <File FileName="Assets/_Developer/Script/Game/PokerGameplay/PlayerScript.cs" Line="123" Column="80" />
+      <File FileName="Assets/_Developer/Script/Game/OnedayGame/ThousandGamePlay_Online.cs" Line="234" Column="81" />
+      <File FileName="Assets/_Developer/Script/Game/OnedayGame/BlinkGame_Online.cs" Line="22" Column="19" />
+      <File FileName="Assets/_Developer/Script/Swipe.cs" Line="11" Column="61" />
+      <File FileName="Assets/_Developer/Script/Game/OnedayGame/CloudMovement.cs" Line="9" Column="68" />
+      <File FileName="Assets/_Developer/Script/Game/OnedayGame/RingRotation.cs" Line="9" Column="72" />
+      <File FileName="Assets/_Developer/Script/Game/OnedayGame/ThousandGamePlay_Practice.cs" Line="146" Column="1" />
+      <File FileName="Assets/_Developer/Script/Game/OnedayGame/BlinkGame_Practice.cs" Line="21" Column="19" />
+      <File FileName="Assets/_Developer/Script/Game/PokerGameplay/ChatController.cs" Line="22" Column="46" />
+      <File FileName="Assets/_Developer/Script/Game/PokerGameplay/ChatMessage.cs" Line="10" Column="81" />
+      <File FileName="Assets/_Developer/Script/Game/PokerGameplay/WinChipsAnimController.cs" Line="12" Column="94" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/AudioScript.cs" Line="9" Column="51" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/ConnectWalletUI.cs" Line="10" Column="35" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/ContentScaleUpDown.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/HomeScreen.cs" Line="9" Column="19" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/LeaderBoardPanelUI.cs" Line="9" Column="35" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/LeaderBoardUI.cs" Line="12" Column="120" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/LoaderRotate.cs" Line="8" Column="54" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/MenuPanelUI.cs" Line="10" Column="28" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/PickBetingStyleUI.cs" Line="10" Column="87" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/PickGameUI.cs" Line="11" Column="40" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/PickStackUI.cs" Line="14" Column="44" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/PickTeamUI.cs" Line="11" Column="49" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/PlayerProfile.cs" Line="16" Column="101" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/SettingUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/TournamentUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Developer/Script/Game/UIScript/WelComeUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Developer/Script/Server/Login_Reg_HomeScren.cs" Line="11" Column="72" />
+      <File FileName="Assets/_Developer/Script/Server/LoginScript.cs" Line="18" Column="23" />
+      <File FileName="Assets/_Developer/Script/Server/SignUpScript.cs" Line="17" Column="69" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Crypto cita" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Developer" expanded="True">
+                <Node name="Script" expanded="True">
+                  <Node name="Game" expanded="True">
+                    <Node name="OnedayGame" expanded="True" />
+                    <Node name="PokerGameplay" expanded="True" />
+                    <Node name="UIScript" expanded="True" />
+                  </Node>
+                  <Node name="Network" expanded="True">
+                    <Node name="StaticDataHandler.cs" selected="True" />
+                  </Node>
+                  <Node name="Server" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="SimpleLocalization" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cb884f0d-6fa7-402a-8a21-a5769c80c22d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

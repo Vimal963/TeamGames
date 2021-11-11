@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: c7ed83ee041cf43b5bfd2ec70079b9d3
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -113916679756921479
+    second: Vert.002|Torus.001Action
+  - first:
+      74: 5819544246575183619
+    second: Vert.002|TorusAction
+  - first:
+      74: 2973493448613902291
+    second: Vert.002|Vert.001Action
+  - first:
+      74: 6309805482027741046
+    second: Vert.002|Vert.002Action
+  - first:
+      74: -6976063503352452239
+    second: Vert.002|Vert.003Action
+  - first:
+      74: 3129584012604655410
+    second: Vert.002|Vert.004Action
+  - first:
+      74: -6147762500918860559
+    second: Vert.001|Torus.001Action
+  - first:
+      74: 7707612238740743758
+    second: Vert.001|TorusAction
+  - first:
+      74: 5244449420962968739
+    second: Vert.001|Vert.001Action
+  - first:
+      74: -8866312004078191459
+    second: Vert.001|Vert.002Action
+  - first:
+      74: -5591497967490596044
+    second: Vert.001|Vert.003Action
+  - first:
+      74: 4956870904107288943
+    second: Vert.001|Vert.004Action
+  - first:
+      74: -7806878530582402559
+    second: Torus|Torus.001Action
+  - first:
+      74: -8730468044713431094
+    second: Torus|TorusAction
+  - first:
+      74: -6456609710221847720
+    second: Torus|Vert.001Action
+  - first:
+      74: -7185622767793410645
+    second: Torus|Vert.002Action
+  - first:
+      74: 7388806804653320559
+    second: Torus|Vert.003Action
+  - first:
+      74: -8263894279447223770
+    second: Torus|Vert.004Action
+  - first:
+      74: 6755702151989149167
+    second: Torus.001|Torus.001Action
+  - first:
+      74: 4646315479830031230
+    second: Torus.001|TorusAction
+  - first:
+      74: 7254327397143532921
+    second: Torus.001|Vert.001Action
+  - first:
+      74: -1968855016748963784
+    second: Torus.001|Vert.002Action
+  - first:
+      74: -501243456083047104
+    second: Torus.001|Vert.003Action
+  - first:
+      74: 6446738397866748717
+    second: Torus.001|Vert.004Action
+  - first:
+      74: -641642156979754970
+    second: Vert.003|Torus.001Action
+  - first:
+      74: 5467900394239297145
+    second: Vert.003|TorusAction
+  - first:
+      74: -3723349431727491109
+    second: Vert.003|Vert.001Action
+  - first:
+      74: 2362150496351145220
+    second: Vert.003|Vert.002Action
+  - first:
+      74: 5945856879787244720
+    second: Vert.003|Vert.003Action
+  - first:
+      74: -6678064114117833373
+    second: Vert.003|Vert.004Action
+  - first:
+      74: 2568137547516060211
+    second: Vert.004|Torus.001Action
+  - first:
+      74: -845252216885594617
+    second: Vert.004|TorusAction
+  - first:
+      74: -4814989248061080084
+    second: Vert.004|Vert.001Action
+  - first:
+      74: -2341851452546268359
+    second: Vert.004|Vert.002Action
+  - first:
+      74: 4184013562065429002
+    second: Vert.004|Vert.003Action
+  - first:
+      74: 8767874326762102879
+    second: Vert.004|Vert.004Action
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: eda510b831ac34e54a752a9ab609aea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 10ec94b934a114d03aaa2241bbdf553c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 4deb0f2ab6c8a4dd3adeed8371527772, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: b80ce4ff11d494acc9c80d94919e1bff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 68bd2f6cdc9834cf7bd9a59c6164ab57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 96893a336e4b840e7a3ae94a356d57c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 2c8f7a7a57cc141db8a72869c8254179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 76485647cf34e48bd9d3ce2d121af24f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 0553bfc0309984743a1a9731ac23ef2d, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

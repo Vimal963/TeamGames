@@ -1,0 +1,113 @@
+Key,English,Chinese
+Home.Login,Login,登录
+Home.Register,Register,登记
+Home.UserNamePlace,Enter Username...,输入用户名...
+Home.PasswordPlace,Enter password...,输入密码...
+Home.Welcome,The Most fun and fierce battle in all of crypto land,所有加密货币领域中最有趣和最激烈的战斗
+Home.Wallet,Connect Your Wallet,连接你的钱包
+Home.MetaMaskWallet,Metamask,元掩码
+Home.TrustWallet,TrustWallet,信任钱包
+Home.ConnectWallet,WalletConnect,钱包连接
+Home.MathWallet,MathWallet,麦子钱包
+Home.BinanceWallet,Binance Chain Wallet,币安链钱包
+Home.TeamTitle,-Pick Your Team-,选择你的团队
+Home.TeamUSA,Team USA,美国队
+Home.TeamChina,Team China,中国队
+Home.Practice,Practice,实践
+Home.InsufficientTokens,Insufficient tokens,令牌不足
+Home.TeamErrorMessage,To represent TeamUsa,you must hold at least 5000 TeamUSA tokens in your wallet.,要代表 TeamUsa，您的钱包中必须至少持有 5000 个 TeamUSA 代币。
+Home.ChoosePlayMode,-Choose Play Mode-,-选择播放模式-
+Home.SingleBet,Single Bet,单注
+Home.PokerRules,Poker Rules,扑克规则
+Home.Tournament,Tournament,比赛
+Home.TounamentTitle,-Tounament-,-比赛-
+Home.TIMEREMAINING,TIME REMAINING,剩余时间
+Home.NEXTGAME,NEXT GAME,下一场比赛
+Home.UPCOMINGTOURNAMENT,UPCOMING TOURNAMENT,即将举行的锦标赛
+Home.PickGame,-Pick a Game-,-选择游戏-
+Home.ChooseStakes,-Choose Your Stakes-,-选择你的赌注-
+Home.Play,Play Now,现在播放
+Home.BuyTMG,Buy $TMG Token,购买 $TMG 代币
+Home.Profile,Profile,轮廓
+Home.Leaderboard,Leaderboard,排行榜
+Home.LoadingLeaderboard,Data fetching...,数据获取...
+Home.FeatureUnderProgress,Feature Under Progress,正在进行中的功能
+Home.RefreshedTime,Refreshed at 12:00 AM UTC Daily,UTC 每天上午 12:00 刷新
+Home.Today,Today,今天
+Home.AllTime,All Time,整天
+Home.DataFetchingm,Wait....  While data fetching....,等待.... 正在获取数据....
+Home.GameWallet,Top-Up Game Wallet,充值游戏钱包
+Home.DisconnectMainWallet,Disconnect Main Wallet,断开主钱包
+Home.Setting,Setting,设置
+Home.Settings,Settings,设置
+Home.Username,Username : ,用户名 ：
+Home.DisplayName,Display Name : ,显示名称 ：
+Home.Language,Language : ,语 ：
+Home.Sound,Sound : ,声音 ：
+Home.SelectProfile,Select Profile,选择个人资料
+Home.WantToLogout,Are you sure want to logout?,您确定要退出吗？
+Home.Loading,Loading...,正在加载...
+Home.logout,LOGOUT,登出
+Home.profilepic,Select profile,选择个人资料
+
+Game.RoundTimer,Round start in 15 second,15 秒后开始回合
+Game.SitNextRound,Sit out next round,下一轮坐下
+Game.BuyIn,Buy - In	,买进
+Game.AllIn,All - In,全进
+Game.CHECK,CHECK,查看
+Game.RAISE,RAISE,增加
+Game.FOLD,FOLD,折叠
+Game.CALL,CALL,称呼
+Game.TeamChat,Team Chat,团队聊天
+Game.TableChat,Table Chat,桌上聊天
+Game.WorldChat,World Chat,世界聊天
+Game.WaitingForPlayer,Waiting for other players..,等待其他玩家..
+Game.Chat,Chat,聊天
+Game.ChatH,#Chat,＃聊天																								
+Game.ChatPlaceholder,Send a message,发送消息
+Game.PlayAgain,Play Again,再玩一次
+Game.StartCountdown,Click to start countdown,点击开始倒计时																								
+		
+CatBlink.Info,Tap anywhere to scare the cat!,点击任何地方来吓唬猫！
+CatBlink.BilnkTime,Blink cat for 120 times,眨眼猫120次
+		
+StopTheClock.StopClock,TAP ANYWHERE TO STOP THE CLOCK,点击任何地方停止时钟
+Practice.TapScreen,Tap the screen as fast you can!,尽可能快地点击屏幕！
+Practice.Timer,Timer:,定时器：
+Practice.Tap,Tap,轻敲
+
+GENERAL.YES,Yes,是的
+GENERAL.NO,No,不
+GENERAL.OK,Ok,好的
+GENERAL.CLOSE,Close,关闭
+GENERAL.BACK,Back,后退
+GENERAL.BUY,Buy,买
+GENERAL.PANEL,Panel,控制板
+GENERAL.CONTINUE,Continue,继续
+GENERAL.WIN,Win,赢
+GENERAL.LOSE,Lose,失去
+GENERAL.HOME,Home,家
+GENERAL.ON,On,在
+GENERAL.OFF,Off,离开
+GENERAL.playagain,Play Again,再玩一次
+		
+Language.Chinese,Chinese,中国人
+		
+Slider.MaxRate,Max update rate,最大更新率
+
+DYNAMIC.WAITINGFORPLAYER,Waiting for other players,等待其他玩家
+DYNAMIC.WAITINGFORNEXTROUND,Waiting for next round,等待下一轮
+DYNAMIC.STOPCLOCKAT,Stop the clock at ,时钟停在
+DYNAMIC.SCARETHECAT,Scare the cat ,吓唬猫
+DYNAMIC.TIMES, Times, 时代
+DYNAMIC.SECONDS, Seconds, 秒
+DYNAMIC.NEXTROUNDSTARTIN, Next round starts in ,下一轮开始于
+DYNAMIC.FILLUPFIELD,Please fillup all field,请填写所有字段
+DYNAMIC.SERVERDIDNOTRESPONSE,Server did not response.,服务器没有响应。
+DYNAMIC.CHECKINTERNET,Check your internet connection.,检查您的互联网连接。
+DYNAMIC.SOMETHINGWRONG,Something went to wrong.,出了点问题。
+DYNAMIC.REGSUC,User Register successfully,用户注册成功
+DYNAMIC.ERROR,Error, Please try again.!,错误，请重试。！
+DYNAMIC.ALRDYREG,User Already Register,用户已注册
+
+
